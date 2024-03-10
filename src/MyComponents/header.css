@@ -1,0 +1,9 @@
+#img:hover{
+    transform: rotate(100deg);
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+
+#img{
+    transition: 0.5s ease;
+}
